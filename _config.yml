@@ -23,13 +23,13 @@ footer-links:
   flickr:
   github: cliveb
   instagram:
-  linkedin: https://www.linkedin.com/in/cliveboulton
+  linkedin: cliveboulton
   pinterest:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: iC
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # https://www.youtube.com/channel/UCYTLLiZ9vLbEeybgfvhUfWQ/videos
-  googleplus: https://plus.google.com/+cliveboulton/posts
+  youtube: UCYTLLiZ9vLbEeybgfvhUfWQ/videos
+  googleplus: +cliveboulton/posts
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
