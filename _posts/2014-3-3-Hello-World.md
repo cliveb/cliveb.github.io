@@ -1,9 +1,9 @@
 ---
 layout: post
-title: We're up and running!
+title: We're up on running!
 ---
 
-Thanks for visting, check out my cloud spin (shown below) 
+Thanks for visting checkout my about for more info. 
 
 ![_config.yml]({{ site.baseurl }}/images/spin.gif)
-![_config.yml]({{ site.baseurl }}/images/config.png)
+
