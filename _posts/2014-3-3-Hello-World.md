@@ -1,6 +1,6 @@
 ---
 layout: post
-title: We're up on running!
+title: We're up and running!
 ---
 
 Thanks for visiting, check out my cloud spin (shown below)
