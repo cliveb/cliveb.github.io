@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am a versatile products and engineering leader with a diverse range of application design and platform development experiences building manufacturing systems and business communities spanning US/UK/EU/Asia.
+I am a versatile products and engineering leader with a diverse range of application design and platform development experiences building manufacturing and online business community systems spanning US/UK/EU/Asia.
 
 ### More Information
 
