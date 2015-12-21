@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-I'm a Products and Engineering pro with a diverse range of experiences in R&D building platforms for small-to-medium size enterprise apps.
+I'm a versatile product leader with a diverse range of application design and development experiences building valuable platforms spanning manufacturing systems to online social communities across US/UK/EU/Asia.
 
 ### More Information
 
-I thrive in startup roles and environments that require both domain and technical skills. Most recently orchestrating research engineering, product management and hacking nextgen apps. I'm used to leading design and development with a put the user experience first fast beta-driven iterative approach integrating software engineering to grow at international scale.
+I thrive in startup roles and environments that require strong technical and domain knowhow with people and product management experience. I’m used to focusing on solving both customer and developer productivity. Providing direction in design and broad areas of software development integrating with marketing for scale.
 
 ### Contact me
 
