@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-Very experienced senior engineer (really familiar catering to business developers, ecosystems and their developers). Also enjoy teaming up to organize both the Seattle GDG (Google Developers Group) and Seattle Scalability distributed systems meetups. 
+Very experienced senior engineer. Really familiar catering to business developers, ecosystems and thier developers. I also enjoy teaming up to organize both the Seattle GDG (Google Developers Group) and Seattle Scalability distributed systems meetups. Always learning, always an adventure!
 
 ### Contact me
 
