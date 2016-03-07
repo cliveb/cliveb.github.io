@@ -9,8 +9,6 @@ Concurrently, I enjoy contributing to camlistore.org building the community and 
 
 Always learning, always an adventure!
 
-Inquires, please see my talent manager https://www.linkedin.com/in/robertanasser
-
 ### Contact me
 
 [clive.boulton at googlemail.com]
