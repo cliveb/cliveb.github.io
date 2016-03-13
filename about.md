@@ -3,11 +3,11 @@ layout: page
 title: About
 permalink: /about/
 ---
-I'm an engineer consulting on products, community management and devrel for nextgen MRP/ERP apps solving B2B / B2C from demand to delivery (really familiar catering to business developers).
+I'm a former senior principal research engineer consulting on nextgen app productivity for transforming ERP / MRP to B2B / B2C from demand to delivery (really familiar catering to business developers).
 
-Concurrently (since 2012) I enjoy contributing to camlistore.org helping build the community also team up to organize both the Seattle GDG (Google Developers Group) and Seattle Scalability (distributed systems) meetups.
+Concurrently (since 2011) I’m helping build nextgen app community and team up to organize both Seattle GDG and Seattle Scalability (distributed systems) meetups, also enjoy contributing to camlistore.org community.
 
-Early work with MAX, Kewill and Exact helped lay the groundwork for inventiveness in product development, community management and developer relations.    
+Early work with MAX, Kewill and Exact helped lay the groundwork for inventiveness in product design, work with Google laid groundwork for community management and developer relations.    
 
 Always learning, always an adventure!
 
