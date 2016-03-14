@@ -7,7 +7,7 @@ I'm a former senior principal research engineer consulting on nextgen app produc
 
 Concurrently (since 2011) I’m helping build nextgen app community and team up to organize both Seattle GDG and Seattle Scalability (distributed systems) meetups, also enjoy contributing to camlistore.org community.
 
-Early work with MAX, Kewill and Exact helped lay the groundwork for inventiveness in product design, work with Google laid groundwork for community management and developer relations.    
+Early work with JCB, GE, Intel, HP, MAX, Kewill and Exact helped lay the groundwork for inventiveness in product design, work with Google laid groundwork for community management and developer relations.    
 
 Always learning, always an adventure!
 
