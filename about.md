@@ -14,4 +14,3 @@ Always learning, always an adventure!
 ### Contact me
 
 [clive.boulton at googlemail.com]
-
