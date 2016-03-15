@@ -3,11 +3,11 @@ layout: page
 title: About
 permalink: /about/
 ---
-I'm a former senior principal research engineer consulting on nextgen app productivity for transforming ERP / MRP to B2B / B2C from demand to delivery (really familiar catering to business developers).
+I'm a former senior principal research engineer consulting on ERP / MRP transformations to B2C / B2B and nextgen app productivity (really familiar catering to business developers).
 
 Concurrently (since 2011) I’m helping build nextgen app community and team up to organize both Seattle GDG and Seattle Scalability (distributed systems) meetups, also enjoy contributing to camlistore.org community.
 
-Early work with JCB, GE, Intel, HP, MAX, Kewill and Exact helped lay the groundwork for inventiveness in product design, work with Google laid groundwork for community management and developer relations.    
+Early work with Kewill at Intel and HP helped lay the groundwork for inventiveness in application design and R&D at Exact, work with the Google community for developer advocacy.    
 
 Always learning, always an adventure!
 
