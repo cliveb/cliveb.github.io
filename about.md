@@ -7,7 +7,7 @@ I'm a former senior principal research engineer consulting on ERP / MRP transfor
 
 Concurrently (since 2011) I’m helping build nextgen app community and team up to organize both Seattle GDG and Seattle Scalability (distributed systems) meetups, also enjoy contributing to camlistore.org community.
 
-Early work with Kewill at Intel and HP helped lay the groundwork for inventiveness in MAX application design and R&D at Exact for world scale, work with the Google community for developer advocacy.    
+Early work with Kewill at Intel and HP helped lay the groundwork for inventiveness in application design and at Exact for world scale R&D, work with the Google community for developer advocacy.    
 
 Always learning, always an adventure!
 
