@@ -7,7 +7,7 @@ I'm a multi-skilled former senior principal research engineer consulting on next
 
 Early work with Kewill at Intel and HP helped lay the groundwork for inventiveness in application design and at Exact for world scale SaaS, work with the Google community for developer advocacy. 
 
-Concurrently (since 2011) I’m helping build nextgen app community and team up to organize both Seattle GDG and Seattle Scalability (distributed systems) meetups, contribute to camlistore.org community, plus discovery research and some startups.
+Concurrently (since 2012) I’m helping build nextgen app community and team up to organize both Seattle GDG and Seattle Scalability (distributed systems) meetups, contribute to camlistore.org community, plus discovery research and some startups.
 
 Always learning, always an adventure!
 
