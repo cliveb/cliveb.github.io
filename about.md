@@ -10,7 +10,7 @@ Concurrently (since 2012) I’m helping build nextgen app community and team up 
 Always learning, always an adventure!
 
 Specialties: 
-Product management, application design, product development, ecosphere. 
+Product management, discovery research, application design, product development, ecosphere. 
 
 ### Contact me
 
