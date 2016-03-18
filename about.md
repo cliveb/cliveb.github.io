@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Specialties: Product management, discovery research, application design, product development, ecosphere. 
+Expertise: Product management, discovery research, ecosphere, community leader, application engineering.  
+
 
 Always learning, always an adventure!
 
