@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Expertise: Product management, discovery research, ecosphere, community leader, application engineering.  
+Product management, discovery research, nextgen apps, ecosphere, engineering platform.
 
 
 Always learning, always an adventure!
