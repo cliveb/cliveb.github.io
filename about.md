@@ -6,7 +6,7 @@ permalink: /about/
 
 Expertise: Product management, application design, ecosystem, community, product development.
 
-Super interested in nextgen MRP, DDMRP, machine learning, scalability and adaptability for modern businesses. Knowledgeable about on Google Cloud Platform.   
+Super interested in nextgen MRP, DDMRP, machine learning, scalability, adaptability and cloud computing for modern businesses. 
 
 Give me a cloud IDE over Give me a bash prompt!
 
