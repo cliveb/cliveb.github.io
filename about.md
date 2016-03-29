@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Expertise: Product management, application design, ecosystem, community, product development.
+Expertise: Product management, application design, ecosystem, community, engineering.
 
-Super interested in nextgen MRP, DDMRP, machine learning, scalability, adaptability and cloud computing for modern businesses. 
+Specialties: GCP cloud based applications. Working with teams to build cool stuff.: Enterprise not consumer. 
 
-Give me a cloud IDE over Give me a bash prompt!
+Domains: Supply Chain, Manufacturing and eCommerce -- Large scale SMB/SME SaaS systems, systems of record. FSMA to fintech nextgen MRP, DDMRP, traceability and more. 
 
 ### Contact me
 
