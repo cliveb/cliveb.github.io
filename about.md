@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Expertise: Product development and product managemnt. Highly skilled in software engineering.
+Expertise: Product development and product management. 
 
 ### Contact me
 
