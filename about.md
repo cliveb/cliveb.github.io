@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Expertise: Product development and product management. 
+Expertise: Application designer. Supply chain e-commerce. Getting stuff done.   
 
 ### Contact me
 
