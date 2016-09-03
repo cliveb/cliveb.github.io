@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Expertise: Application designer. Software Engineering. Getting stuff done.   
+Expertise: Understanding of technology, engineers, software and algorithms: Getting stuff done.   
 
 ### Contact me
 
