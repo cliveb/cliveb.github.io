@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Expertise: Application designer. Supply chain e-commerce. Getting stuff done.   
+Expertise: Application designer. Software Engineering. Getting stuff done.   
 
 ### Contact me
 
